@@ -1,16 +1,26 @@
-### Hi there 👋
+# Professional Profile
 
-<!--
-**TiredBarnOwl/TiredBarnOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a software engineer who specializes in game design and full-stack development. I've got a strong grip on both the creative and technical sides of coding.
 
-Here are some ideas to get you started:
+## Skills at a Glance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: **HTML5, CSS, JavaScript, Python**
+- Front-End: **React.js, Bootstrap**
+- Back-End: **Node.js, Express.js**
+- Databases: **SQL, NoSQL**
+- DevOps: **Git, Docker, Kubernetes, CI/CD**
+- Cloud: **AWS, Azure**
+- 3D Modeling: **Blender**
+- Game Engines: **Unity, Unreal Engine**
+
+## My Work Ethos
+
+My projects are behind the scenes - they're impactful, but I keep the details under wraps. This isn't just about keeping things exclusive; it's about connecting the right way, with the right people.
+
+## Let's Connect
+
+For inquiries about my experience or to discuss potential projects, reach me at:
+
+- **Email:** [TiredBarnOwl@protonmail.com](mailto:TiredBarnOwl@protonmail.com)
+
+Looking forward to chatting about what we can achieve together.

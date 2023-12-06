@@ -13,10 +13,4 @@ Hello, I'm a software engineer who specializes in game design and full-stack dev
 - 3D Modeling: **Blender**
 - Game Engines: **Unity, Unreal Engine**
 
-## Let's Connect
 
-For inquiries about my experience or to discuss potential projects, reach me at:
-
-- **Email:** [TiredBarnOwl@protonmail.com](mailto:TiredBarnOwl@protonmail.com)
-
-Looking forward to chatting about what we can achieve together.

@@ -1,6 +1,6 @@
 # Professional Profile
 
-Hello, I'm a software engineer who specializes in game design and full-stack development. I've got a strong grip on both the creative and technical sides of coding.
+Hello, I'm a software engineer who specializes in full-stack development. I've got a strong grip on both the creative and technical sides of coding.
 
 ## Skills at a Glance
 
